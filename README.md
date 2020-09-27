@@ -1,4 +1,4 @@
-![Screenshot](/images/github-logo.png)
+![Screenshot](/images/thumbnails/Screenshot%20(72).png)
 
 # AtulYadav01.github.io
 :star: Star me on GitHub — it helps!
